@@ -2,6 +2,11 @@
 
 Welcome to **Linux Basics for Beginners**, a repository designed to help new Linux users transition from Windows to Linux with confidence. This guide provides step-by-step instructions on essential Linux concepts, troubleshooting techniques, and customization tips to help you make the most of your Linux experience.
 
+To get started, please visit:
+
+➡️ **[Linux Basics Wiki](../../wiki)** ⬅️
+
+
 ## Repository Overview
 
 This repository is perfect for:
