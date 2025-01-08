@@ -4,7 +4,7 @@ Welcome to **Linux Basics for Beginners**, a repository designed to help new Lin
 
 To get started, please visit:
 
-➡️ **[Linux Basics Wiki](../../wiki)** ⬅️
+➡️ **[Linux Basics Wiki](../../wiki/Linux-Basics-Guide)** ⬅️
 
 
 ## Repository Overview
